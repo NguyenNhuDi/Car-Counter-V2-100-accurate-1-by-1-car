@@ -58,7 +58,6 @@ while True:
     imgCounter += 1
 
     cv2.imshow("Car counter 2", frames)
-    cv2.imshow("gray", gray)
     cv2.imshow("Thresh", thresh)
 
 
